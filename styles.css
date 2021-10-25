@@ -1,0 +1,41 @@
+.navbar {
+    background-color:#454546;
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+    min-height: 50px;
+    border: 1px solid transparent;
+    }
+#tickets{color:rgb(141, 238, 84);}
+#Conviertete{color:white;}
+#porcentaje{font-weight: bold;}
+#resumen{display:flex;}
+h2{text-align: center;}
+h5{text-align: center;}
+p{
+    text-align: center;
+}
+.botones { display: flex;
+    justify-content: center;
+    margin-top: 30px;
+
+ 
+   
+}
+.btn {
+    background-color:rgb(151, 194, 21);
+    color: white;
+    margin-right: 20px;
+    width: 100%;
+    justify-content: center;
+
+   
+}
+
